@@ -1,6 +1,6 @@
 Pengaplikasian article-json-opensid pada aplikasi OpenSID
 1. download & Extract article-json-opensid.zip
-2. buat folder(directory) baru pada main folder openSID (eg. di dalam folder public_html).
+2. buat folder(directory) baru pada main folder openSID (eg. di dalam folder public_html), dan pastekan semua hasil dari extract pada poin-1.
 3. sesuaikan isi file settings.php didalam folder config dengan database pada aplikasi openSID masing-masing.
 Keterangan settings.php
 - URL_BASE_SID : alamat website/aplikasi openSID masing-masing
